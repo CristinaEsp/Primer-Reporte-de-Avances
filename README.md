@@ -25,7 +25,7 @@ Los que se benefician son los clientes, ya que buscan comprar cosas en internet 
 
 3. **¿Cuál es la propuesta de valor para estos públicos?**  
 El mayor beneficio de los usuarios de Amazon es la conectividad con todos los servicios de la compañía; los servicios de esta compañía son: 
-- Device software: Conecte sus dispositivos y utilícelos en el borde. 
+- Device software: Conecte sus dispositivos y utilícelos en el borde.(FreeRTOS: FreeRTOS es un sistema operativo para microcontroladores que hace que los dispositivos periféricos pequeños y de bajo consumo sean fáciles de programar, implementar, proteger, conectar y administrar., AWS loT Greengrass es un software que le permite ejecutar capacidades locales de computación, mensajería, almacenamiento en caché de datos, sincronización e inferencia de aprendizaje automático en dispositivos conectados de forma segura.)
 - Connectivity & control services: Asegure, controle y administre sus dispositivos desde la nube. 
 - Connectivity & control services: Trabaje con datos de IoT más rápido para extraer valor de sus datos de IoT.  
 
