@@ -79,3 +79,14 @@ https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting
 [4] GitHub Guide (2020) Hello World, Recovered from: https://guides.github.com/activities/hello-world/ 
 
 [5] GitHub (2020) GitHub.com Documentación de Ayuda, Recovered from: https://docs.github.com/es/github
+
+[6] Team, D. (2020, January 05). Benefits of Amazon Iot Platform for Iot Project. Retrieved from https://www.digiteum.com/aws-iot-platform-iot-development#:~:text=It promotes strong security,custom security procedures and technologies.
+
+[7] Sanket. (2019, February 08). Best practices for using Git. Retrieved September 18, 2020, from https://deepsource.io/blog/git-best-practices/
+
+[8]  Yossef, N. (2017, December 05). Git commit best practices. Retrieved September 18, 2020, from https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
+
+[9]  Las 10 empresas de Internet de las Cosas más poderosas. (s.f.). Recuperada en Septiembre 18, 2020, de https://cioperu.pe/fotoreportaje/16123/las-10-empresas-de-internet-de-las-cosas-mas-poderosas/?foto=11
+
+[10]  Giovanini, P. (2018, Abril 17). Cinco cosas que tienes que saber sobre la sustentabilidad de Amazon. Recuperada en Septiembre 18, 2020, de https://www.expoknews.com/sustentabilidad-de-amazon-5-cosas-que-no-sabias-de-ella/
+
