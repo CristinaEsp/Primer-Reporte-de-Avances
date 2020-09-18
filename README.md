@@ -79,6 +79,9 @@ Git se ha vuelto el sistema de control de versiones preferido, esto porque ayuda
 Los recursos de apoyo que la misma página ofrece están en el siguiente link:
 https://docs.github.com/es/github, ahí hay 33 links para ayudar sobre cualquier situación que se ocupe desde como conocer la plataforma crear una cuenta hasta encontrar errores en el código. Aparte de que si ninguno de esos temas te ayuda hay un servicio de soporte técnico en el que resuelven cualquier duda relacionada con GitHub.  
 
+### Normas que el modelo debe cumplir: 
+AWS cumple la norma ISO 27018, un código de conducta diseñado para proteger los datos personales en la nube. Se basa en la norma de seguridad de la información de la ISO 27002 y ofrece directrices de implementación sobre los controles de la ISO 27002 aplicables a la información personal identificable (PII) procesada por proveedores de servicios en la cloud pública.
+
 ## Bibliografía:
 
 [1] Floriano, S. (2019, Enero 22). La guía básica de Git y Github para principiantes. Recuperada en Septiembre 16, 2020, de https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
