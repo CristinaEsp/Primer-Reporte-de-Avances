@@ -4,4 +4,5 @@
 - Diana Romero A01177903 
 - Edgardo Cantú A01283899  
 
-[Página Web](https://cristinaesp.github.io/Primer-Reporte-de-Avances/#_Estilos_de_Texto:)
+[Página Web](https://cristinaesp.github.io/Primer-Reporte-de-Avances/)
+[Repositorio]()
