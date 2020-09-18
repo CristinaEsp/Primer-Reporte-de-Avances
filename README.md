@@ -63,6 +63,17 @@ Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción n
 3. Una vez satisfecho con los cambios, haz clic `Create Pull Request` e indica el título correspondiente.
 4. Una vez terminando esto, seleccionar `Merge Pull Request`, `Confirm merge` y `Delete branch`(si ese branch ya no estará activo y así se desea)
 
+### Buenas prácticas en la industria para el uso de git y commit
+Git se ha vuelto el sistema de control de versiones preferido, esto porque ayuda a los desarrolladoras a trabajar en conjunto con un mismo código. Es una plataforma sencilla y útil. Algunas prácticas que nos ayudan a establecer orden al momento de trabajar son: 
+
+- Realizar commits con un solo propósito y de manera ordenada
+- Ser claros al momento de escribir un ‘commit message’.
+- Para los mensajes largos, use code editor.
+- Ir guardando tus pequeños avances para cada commit (sin embargo, no des commit a un código incompleto)
+- No alterar la historia ya publicada.
+- No confirmar los archivos generados.
+
+
 ### Los recursos de apoyo: 
 Los recursos de apoyo que la misma página ofrece están en el siguiente link:
 https://docs.github.com/es/github, ahí hay 33 links para ayudar sobre cualquier situación que se ocupe desde como conocer la plataforma crear una cuenta hasta encontrar errores en el código. Aparte de que si ninguno de esos temas te ayuda hay un servicio de soporte técnico en el que resuelven cualquier duda relacionada con GitHub.  
