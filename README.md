@@ -102,3 +102,4 @@ https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting
 
 [10]  Giovanini, P. (2018, Abril 17). Cinco cosas que tienes que saber sobre la sustentabilidad de Amazon. Recuperada en Septiembre 18, 2020, de https://www.expoknews.com/sustentabilidad-de-amazon-5-cosas-que-no-sabias-de-ella/
 
+[11]  Drinkwater, D. (2016, September 09). Coca-Cola drinks to the future of the Internet of Things. Retrieved September 18, 2020, from https://internetofbusiness.com/coca-cola-drinks-to-the-future-of-the-internet-of-things/
